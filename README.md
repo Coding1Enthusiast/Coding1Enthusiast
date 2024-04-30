@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Coding1Enthusiast
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning HTML,CSS,Javascript and React
+- 🌱 I’m currently learning HTML,CSS,Javascript and Angular
 
 
 <!---
